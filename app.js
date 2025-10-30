@@ -79,5 +79,5 @@ app.post('/fetch', async (req, res) => {
 
 // Start the server
 app.listen(PORT, () => {
-  console.log(`Faleproxy server running at http://localhost:${PORT}`);
+  console.log(`Faleproxy server running at http://localhost:${PORT} (HW8 test change)`);
 });
